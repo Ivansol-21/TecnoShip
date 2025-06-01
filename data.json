@@ -1,0 +1,38 @@
+[
+    {
+        "portada": "./TecnoShip/img/PLaptops.png",
+        "categoria": "Laptops",
+        "productos": [
+            {
+                "nombre": "Laptop Gamer",
+                "precio": 1200,
+                "imagen": "./src/assets/img/laptop-gamer.png",
+                "descripcion": "Laptop de alto rendimiento para juegos y tareas exigentes."
+            },
+            {
+                "nombre": "Laptop Ultrabook",
+                "precio": 900,
+                "imagen": "./src/assets/img/laptop-ultrabook.png",
+                "descripcion": "Ultrabook delgada y ligera, ideal para la productividad diaria."
+            }
+        ]
+    },
+    {
+        "portada": "./TecnoShip/img/PPCEscritorio.png",
+        "categoria": "PC Escritorio",
+        "productos": [
+            {
+                "nombre": "PC Gamer",
+                "precio": 1500,
+                "imagen": "./src/assets/img/pc-gamer.png",
+                "descripcion": "PC de escritorio potente para juegos y edición de video."
+            },
+            {
+                "nombre": "PC de Oficina",
+                "precio": 700,
+                "imagen": "./src/assets/img/pc-oficina.png",
+                "descripcion": "PC de escritorio ideal para tareas de oficina y navegación web."
+            }
+        ]
+    }
+]
