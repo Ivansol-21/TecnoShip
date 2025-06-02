@@ -1,7 +1,7 @@
 [
     {
-        "portada": "./img/PLaptops.png",
-        "categoria": "Laptops",
+        "portada": "./TecnoShip/img/PLaptops.png",
+        "categoria": "LAPTOPS",
         "productos": [
             {
                 "nombre": "Laptop Gamer",
@@ -19,7 +19,7 @@
     },
     {
         "portada": "./TecnoShip/img/PPCEscritorio.png",
-        "categoria": "PC Escritorio",
+        "categoria": "PC ESCRITORIO",
         "productos": [
             {
                 "nombre": "PC Gamer",
@@ -32,6 +32,96 @@
                 "precio": 700,
                 "imagen": "./src/assets/img/pc-oficina.png",
                 "descripcion": "PC de escritorio ideal para tareas de oficina y navegación web."
+            }
+        ]
+    },
+    {
+        "portada": "./TecnoShip/img/PGamings.png",
+        "categoria": "GAMINGS",
+        "productos": [
+            {
+                "nombre": "Smartphone Premium",
+                "precio": 999,
+                "imagen": "./src/assets/img/smartphone-premium.png",
+                "descripcion": "Smartphone de alta gama con cámara avanzada y gran rendimiento."
+            },
+            {
+                "nombre": "Smartphone Económico",
+                "precio": 300,
+                "imagen": "./src/assets/img/smartphone-economico.png",
+                "descripcion": "Smartphone asequible con buenas características para el día a día."
+            }
+        ]
+    },
+    {
+        "portada": "./TecnoShip/img/PCelulares.png",
+        "categoria": "CELULARES",
+        "productos": [
+            {
+                "nombre": "Smartwatch Deportivo",
+                "precio": 250,
+                "imagen": "./src/assets/img/smartwatch-deportivo.png",
+                "descripcion": "Smartwatch con seguimiento de actividad y notificaciones inteligentes."
+            },
+            {
+                "nombre": "Smartwatch Elegante",
+                "precio": 350,
+                "imagen": "./src/assets/img/smartwatch-elegante.png",
+                "descripcion": "Smartwatch con diseño elegante y funciones avanzadas de salud."
+            }
+        ]
+    },
+    {
+        "portada": "./TecnoShip/img/PTablets.png",
+        "categoria": "TABLETS",
+        "productos": [
+            {
+                "nombre": "Tablet Android",
+                "precio": 400,
+                "imagen": "./src/assets/img/tablet-android.png",
+                "descripcion": "Tablet con sistema operativo Android, ideal para entretenimiento y productividad."
+            },
+            {
+                "nombre": "Tablet iOS",
+                "precio": 600,
+                "imagen": "./src/assets/img/tablet-ios.png",
+                "descripcion": "Tablet de Apple con iOS, perfecta para usuarios de Apple y aplicaciones creativas."
+            }
+        ]
+    },
+    {
+        "portada": "./TecnoShip/img/PAccesorios.png",
+        "categoria": "ACCESORIOS",
+        "productos": [
+            {
+                "nombre": "Auriculares Inalámbricos",
+                "precio": 150,
+                "imagen": "./src/assets/img/auriculares-inalambricos.png",
+                "descripcion": "Auriculares Bluetooth con cancelación de ruido y gran calidad de sonido."
+            },
+            {
+                "nombre": "Teclado Mecánico",
+                "precio": 100,
+                "imagen": "./src/assets/img/teclado-mecanico.png",
+                "descripcion": "Teclado mecánico con retroiluminación RGB, ideal para gamers y escritores."
+            }
+        ]
+    },
+    {
+        "portada": "./TecnoShip/img/PMonitores.png",
+        "categoria": "MONITORES",
+        "productos": [
+            {
+                "nombre": "Monitor 4K",
+                "precio": 400,
+                "imagen": "./src/assets/img/monitor-4k.png",
+                "descripcion": "Monitor 4K con alta resolución, ideal para edición de video y juegos."
+            },
+            {
+                "nombre": "Monitor Curvo",
+                "precio": 300,
+                "imagen": "./src/assets/img/monitor-curvo.png",
+                "descripcion": "Monitor curvo para una experiencia inmersiva en juegos y películas."
             }
         ]
     }
