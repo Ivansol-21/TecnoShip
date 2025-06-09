@@ -4,15 +4,15 @@
         "categoria": "LAPTOPS",
         "productos": [
             {
-                "nombre": "Laptop Gamer",
-                "precio": 1200,
-                "imagen": "./src/assets/img/laptop-gamer.png",
-                "descripcion": "Laptop de alto rendimiento para juegos y tareas exigentes."
+                "nombre": "Lenovo 15.6” High Per...",
+                "precio": 800,
+                "imagen": "./TecnoShip/img-productos/Lenovo_15.png",
+                "descripcion": "Laptop Lenovo de 15.6 pulgadas con alto rendimiento, ideal para estudiantes y profesionales."
             },
             {
                 "nombre": "Laptop Ultrabook",
                 "precio": 900,
-                "imagen": "./src/assets/img/laptop-ultrabook.png",
+                "imagen": "./TecnoShip/img-productos/Ultrabook.png",
                 "descripcion": "Ultrabook delgada y ligera, ideal para la productividad diaria."
             }
         ]
@@ -22,15 +22,15 @@
         "categoria": "PC ESCRITORIO",
         "productos": [
             {
-                "nombre": "PC Gamer",
-                "precio": 1500,
-                "imagen": "./src/assets/img/pc-gamer.png",
-                "descripcion": "PC de escritorio potente para juegos y edición de video."
+                "nombre": "PC Gamer RTX 3060",
+                "precio": 1200,
+                "imagen": "./TecnoShip/img-productos/PC_gamings_RTX.png",
+                "descripcion": "PC de escritorio gamer con tarjeta gráfica RTX 3060, ideal para juegos de alta gama."
             },
             {
                 "nombre": "PC de Oficina",
                 "precio": 700,
-                "imagen": "./src/assets/img/pc-oficina.png",
+                "imagen": "./TecnoShip/img-productos/PC-oficina.png",
                 "descripcion": "PC de escritorio ideal para tareas de oficina y navegación web."
             }
         ]
@@ -40,16 +40,16 @@
         "categoria": "GAMINGS",
         "productos": [
             {
-                "nombre": "Smartphone Premium",
-                "precio": 999,
-                "imagen": "./src/assets/img/smartphone-premium.png",
-                "descripcion": "Smartphone de alta gama con cámara avanzada y gran rendimiento."
+                "nombre": "control EasySMX X20...",
+                "precio": 80,
+                "imagen": "./TecnoShip/img-productos/Control_de_juegos.png",
+                "descripcion": "Controlador de juegos compatible con múltiples plataformas, ideal para gamers."
             },
             {
-                "nombre": "Smartphone Económico",
-                "precio": 300,
-                "imagen": "./src/assets/img/smartphone-economico.png",
-                "descripcion": "Smartphone asequible con buenas características para el día a día."
+                "nombre": "PlayStation 5",
+                "precio": 500,
+                "imagen": "./TecnoShip/img-productos/Play-station-5.png",
+                "descripcion": "Consola de videojuegos PlayStation 5, con gráficos de última generación y una amplia biblioteca de juegos."
             }
         ]
     },
@@ -58,16 +58,16 @@
         "categoria": "CELULARES",
         "productos": [
             {
-                "nombre": "Smartwatch Deportivo",
+                "nombre": "Samsung S25 Ultra 5G",
                 "precio": 250,
-                "imagen": "./src/assets/img/smartwatch-deportivo.png",
+                "imagen": "./TecnoShip/img-productos/Samsung-S25-Ultra.png",
                 "descripcion": "Smartwatch con seguimiento de actividad y notificaciones inteligentes."
             },
             {
-                "nombre": "Smartwatch Elegante",
-                "precio": 350,
-                "imagen": "./src/assets/img/smartwatch-elegante.png",
-                "descripcion": "Smartwatch con diseño elegante y funciones avanzadas de salud."
+                "nombre": "iPhone 14 Pro",
+                "precio": 1200,
+                "imagen": "./TecnoShip/img-productos/iphon-14-Pro.png",
+                "descripcion": "Smartphone de Apple con cámara avanzada y rendimiento excepcional."
             }
         ]
     },
@@ -76,15 +76,15 @@
         "categoria": "TABLETS",
         "productos": [
             {
-                "nombre": "Tablet Android",
+                "nombre": "Galaxy-Tab-S10+",
                 "precio": 400,
-                "imagen": "./src/assets/img/tablet-android.png",
+                "imagen": "./TecnoShip/img-productos/Galaxy-Tab-S10+.png",
                 "descripcion": "Tablet con sistema operativo Android, ideal para entretenimiento y productividad."
             },
             {
-                "nombre": "Tablet iOS",
+                "nombre": "iPad-Air",
                 "precio": 600,
-                "imagen": "./src/assets/img/tablet-ios.png",
+                "imagen": "./TecnoShip/img-productos/iPad-Air.png",
                 "descripcion": "Tablet de Apple con iOS, perfecta para usuarios de Apple y aplicaciones creativas."
             }
         ]
@@ -94,16 +94,22 @@
         "categoria": "ACCESORIOS",
         "productos": [
             {
-                "nombre": "Auriculares Inalámbricos",
+                "nombre": "Teclado Mecánico",
+                "precio": 100,
+                "imagen": "./TecnoShip/img-productos/Teclado_mecanico_ATTACK.png",
+                "descripcion": "Teclado mecánico con retroiluminación RGB, ideal para gamers y escritores."
+            },
+            {
+                "nombre": "MvpSmart R60s Ine...",
                 "precio": 150,
-                "imagen": "./src/assets/img/auriculares-inalambricos.png",
+                "imagen": "./TecnoShip/img-productos/Audifonos.png",
                 "descripcion": "Auriculares Bluetooth con cancelación de ruido y gran calidad de sonido."
             },
             {
-                "nombre": "Teclado Mecánico",
-                "precio": 100,
-                "imagen": "./src/assets/img/teclado-mecanico.png",
-                "descripcion": "Teclado mecánico con retroiluminación RGB, ideal para gamers y escritores."
+                "nombre": "Mouse Inalámbrico",
+                "precio": 50,
+                "imagen": "./TecnoShip/img-productos/Mause_inalambrico.png",
+                "descripcion": "Mouse inalámbrico ergonómico, ideal para uso diario y gaming."
             }
         ]
     },
@@ -114,13 +120,13 @@
             {
                 "nombre": "Monitor 4K",
                 "precio": 400,
-                "imagen": "./src/assets/img/monitor-4k.png",
+                "imagen": "./TecnoShip/img-productos/Monitor-4k.png",
                 "descripcion": "Monitor 4K con alta resolución, ideal para edición de video y juegos."
             },
             {
                 "nombre": "Monitor Curvo",
                 "precio": 300,
-                "imagen": "./src/assets/img/monitor-curvo.png",
+                "imagen": "./TecnoShip/img-productos/Monitor-curvo.png",
                 "descripcion": "Monitor curvo para una experiencia inmersiva en juegos y películas."
             }
         ]
