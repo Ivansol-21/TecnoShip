@@ -4,14 +4,14 @@
         "categoria": "LAPTOPS",
         "productos": [
             {
-                "id": 1,
+                "id": "pdt-001",
                 "nombre": "Lenovo 15.6” High",
                 "precio": 800,
                 "imagen": "./img-productos/Lenovo_15.png",
                 "descripcion": "Laptop Lenovo de 15.6 pulgadas con alto rendimiento, ideal para estudiantes y profesionales."
             },
             {
-                "id": 2,
+                "id": "pdt-002",
                 "nombre": "Laptop Ultrabook",
                 "precio": 900,
                 "imagen": "./img-productos/Ultrabook.png",
@@ -24,14 +24,14 @@
         "categoria": "PC ESCRITORIO",
         "productos": [
             {
-                "id": 3,
+                "id": "pdt-003",
                 "nombre": "PC Gamer RTX 3060",
                 "precio": 1200,
                 "imagen": "./img-productos/PC-gamings-RTX.png",
                 "descripcion": "PC de escritorio gamer con tarjeta gráfica RTX 3060, ideal para juegos de alta gama."
             },
             {
-                "id": 4,
+                "id": "pdt-004",
                 "nombre": "PC de Oficina",
                 "precio": 700,
                 "imagen": "./img-productos/PC-Oficina.png",
@@ -44,14 +44,14 @@
         "categoria": "GAMINGS",
         "productos": [
             {
-                "id": 5,
+                "id": "pdt-005",
                 "nombre": "control EasySMX X20",
                 "precio": 80,
                 "imagen": "./img-productos/Control_de_juegos.png",
                 "descripcion": "Controlador de juegos compatible con múltiples plataformas, ideal para gamers."
             },
             {
-                "id": 6,
+                "id": "pdt-006",
                 "nombre": "PlayStation 5",
                 "precio": 500,
                 "imagen": "./img-productos/Play-station-5.png",
@@ -64,14 +64,14 @@
         "categoria": "CELULARES",
         "productos": [
             {
-                "id": 7,
+                "id": "pdt-007",
                 "nombre": "Samsung S25 Ultra 5G",
                 "precio": 250,
                 "imagen": "./img-productos/Samsung-S25-Ultra.png",
                 "descripcion": "Smartwatch con seguimiento de actividad y notificaciones inteligentes."
             },
             {
-                "id": 8,
+                "id": "pdt-008",
                 "nombre": "iPhone 14 Pro",
                 "precio": 1200,
                 "imagen": "./img-productos/iphon-14-pro.png",
@@ -84,14 +84,14 @@
         "categoria": "TABLETS",
         "productos": [
             {
-                "id": 9,
+                "id": "pdt-009",
                 "nombre": "Galaxy-Tab-S10+",
                 "precio": 400,
                 "imagen": "./img-productos/Galaxy-Tab-S10+.png",
                 "descripcion": "Tablet con sistema operativo Android, ideal para entretenimiento y productividad."
             },
             {
-                "id": 10,
+                "id": "pdt-010",
                 "nombre": "iPad-Air",
                 "precio": 600,
                 "imagen": "./img-productos/iPad-Air.png",
@@ -104,21 +104,21 @@
         "categoria": "ACCESORIOS",
         "productos": [
             {
-                "id": 11,
+                "id": "pdt-011",
                 "nombre": "Teclado Mecánico Attack",
                 "precio": 100,
                 "imagen": "./img-productos/Teclado_mecanico_ATTACK.png",
                 "descripcion": "Teclado mecánico con retroiluminación RGB, ideal para gamers y escritores."
             },
             {
-                "id": 12,
+                "id": "pdt-012",
                 "nombre": "MvpSmart R60s",
                 "precio": 150,
                 "imagen": "./img-productos/Audifonos.png",
                 "descripcion": "Auriculares Bluetooth con cancelación de ruido y gran calidad de sonido."
             },
             {
-                "id": 13,
+                "id": "pdt-013",
                 "nombre": "Mouse Inalámbrico",
                 "precio": 50,
                 "imagen": "./img-productos/Mause-inalambrico.png",
@@ -131,14 +131,14 @@
         "categoria": "MONITORES",
         "productos": [
             {
-                "id": 14,
+                "id": "pdt-014",
                 "nombre": "Monitor 4K",
                 "precio": 400,
                 "imagen": "./img-productos/Monitor-4k.png",
                 "descripcion": "Monitor 4K con alta resolución, ideal para edición de video y juegos."
             },
             {
-                "id": 15,
+                "id": "pdt-015",
                 "nombre": "Monitor Curvo",
                 "precio": 300,
                 "imagen": "./img-productos/Monitor-curvo.png",
