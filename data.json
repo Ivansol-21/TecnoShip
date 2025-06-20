@@ -7,7 +7,7 @@
                 "id": "pdt-001",
                 "nombre": "Lenovo 15.6” High",
                 "precio": 800,
-                "imagen": "./TecnoShip/img-productos/Lenovo_15.png",
+                "imagen": "./img-productos/Lenovo_15.png",
                 "descripcion": "Laptop Lenovo de 15.6 pulgadas con alto rendimiento, ideal para estudiantes y profesionales."
             },
             {
